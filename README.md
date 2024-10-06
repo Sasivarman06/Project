@@ -20,3 +20,4 @@ This project integrates mRNA and miRNA sequencing data to explore the regulatory
 - **DESeq2**
 - **ggplot2**
 - **Python (pandas, matplotlib)**
+- **Cytoscape**
