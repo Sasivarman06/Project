@@ -5,11 +5,11 @@ This project integrates mRNA and miRNA sequencing data to explore the regulatory
 
 ## 📊 Correlation Networks
 
-### Positive Correlation Network
-<img src="./corrleated_network.png" alt="Positive Correlation Network" width="400">
-
 ### miRNA-Gene Correlation
 <img src="./miRNA-gene.png" alt="miRNA-Gene Correlation" width="400">
+
+### Positive Correlation Network
+<img src="./corrleated_network.png" alt="Correlation Network" width="400">
 
 ### Negative Correlation Network
 <img src="./neg_correlated_network.png" alt="Negative Correlation Network" width="400">
