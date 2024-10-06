@@ -5,10 +5,10 @@ This project integrates mRNA and miRNA sequencing data to explore the regulatory
 
 ## 📊 Correlation Networks
 
-### miRNA-Gene Correlation
+### Gene prediction network using miRDB
 <img src="./miRNA-gene.png" alt="miRNA-Gene Correlation" width="400">
 
-### Positive Correlation Network
+### Correlation Network
 <img src="./corrleated_network.png" alt="Correlation Network" width="400">
 
 ### Negative Correlation Network
