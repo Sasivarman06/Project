@@ -14,3 +14,8 @@ This is a simple implementation of the classic game **Stone-Paper-Scissors** usi
    - ✂️ **Scissors** cuts 📄 **Paper**
    - 📄 **Paper** covers 🪨 **Stone**
 4. The game will display the choices of both the player and the computer, along with the result of the round.
+## Installation
+To get started with the game, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/Sasivarman06/Stone-Paper-Scissors.git
