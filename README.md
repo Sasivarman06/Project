@@ -12,6 +12,12 @@ This project integrates mRNA and miRNA sequencing data to explore the regulatory
 ### Positive Correlation Network
 ![Positive Correlation Network](./corrleated_network.png)
 
-
 ### Negative Correlation Network
 ![Negative Correlation Network](./neg_correlated_network.png)
+
+## Tools Used:
+- **Hisat2**
+- **Bowtie2**
+- **DESeq2**
+- **ggplot2**
+- **Python (pandas, matplotlib)**
